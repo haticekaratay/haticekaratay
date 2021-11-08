@@ -1,6 +1,6 @@
  
 ## Hi there, I'm Hatice (Ha.Tee.J.)! 👋 
-Software Development Engineer
+Software Development Engineer experienced building applications with React, Redux, Javascript and Rails. 
 
 ![Profile views](https://gpvc.arturio.dev/haticekaratay)
 
@@ -9,6 +9,10 @@ Please see my projects pinned below.
 <p>
 <img src="https://cdn.iconscout.com/icon/free/png-128/javascript-2752148-2284965.png" alt="js"  width="40"/>  <img src="https://cdn.iconscout.com/icon/free/png-128/react-2749331-2284721.png" alt="react" width="40"/> <img src="https://cdn.iconscout.com/icon/free/png-128/redux-3628430-3032265.png" alt="redux" width="40"/> <img src="https://cdn.iconscout.com/icon/free/png-128/social-145-95506.png" alt="git" width="40"/> <img src="https://cdn.iconscout.com/icon/free/png-128/ruby-3629029-3030386.png" alt="ruby" width="40"/> <img src="https://cdn.iconscout.com/icon/free/png-128/rails-2-1175112.png" alt="rails" width="40" /> <img src="https://cdn.iconscout.com/icon/free/png-128/heroku-2-458306.png" alt="heroku" width="40" />  <img src="https://cdn.iconscout.com/icon/free/png-128/bootstrap-3628072-3030453.png" alt="bootstrap" width="40" />  <img src="https://cdn.iconscout.com/icon/free/png-128/html-2752158-2284975.png" alt="html5" width="40" /> <img src="https://cdn.iconscout.com/icon/free/png-128/css3-11-1175239.png" alt="css" width="40"/>
 </p>
+
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=haticekaratay&theme=dracula&count_private=true&show_icons=true&hide=contribs)
+
+
 
 ## Contact
 <p>
