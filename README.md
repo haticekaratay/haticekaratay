@@ -1,6 +1,6 @@
  
 ## Hi there, I'm Hatice (Ha.Tee.J.)! 👋 
-Software Development Engineer experienced building applications with React, Redux, Javascript and Rails. 
+Software Engineer experienced building applications with Java,Spring Boot, and React.js
 
 ![Profile views](https://gpvc.arturio.dev/haticekaratay)
 
@@ -12,6 +12,9 @@ Please see my projects pinned below.
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=haticekaratay&theme=dracula&count_private=true&show_icons=true&hide=contribs)
 
+<a href="https://github.com/haticekaratay">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haticekaratay&theme=react&layout=compact" alt="hatice's github stats"/>
+</a>
 
 
 ## Contact
