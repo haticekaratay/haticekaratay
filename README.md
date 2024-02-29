@@ -2,7 +2,7 @@
 ## Hi there, I'm Hatice (Ha.Tee.J.)! 👋 
 <!-- Software Engineer experienced building applications with Java,Spring Boot, and React.js -->
 
-![Profile views](https://gpvc.arturio.dev/haticekaratay)
+<!--![Profile views](https://gpvc.arturio.dev/haticekaratay)-->
 
 Please see my projects pinned below.
 ## Skills
